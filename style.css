@@ -19,21 +19,22 @@ canvas {
 }
 .title {
 	position: absolute;
-	top: 30%;
+	top: 20%;
 	left: 50%;
 	transform: translate(-50%, -30%);
 	font-size: 7em;
-	padding: 0;
+	padding: 20px;
 	margin: 0;
 }
 #countdown-box {
 	z-index: 1;
 	position: absolute;
-	top: 70%;
+	top: 80%;
 	left: 50%;
 	transform: translate(-50%, -70%);
 	text-align: justify;
 	width: 90%;
+	padding: 20px
 }
 #countdown-box:after {
 	display: inline-block;
