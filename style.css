@@ -30,7 +30,7 @@ canvas {
 	z-index: 1;
 	position: absolute;
 	top: 80%;
-	left: 50%;
+	left: 70%;
 	transform: translate(-50%, -70%);
 	text-align: justify;
 	width: 70%;
